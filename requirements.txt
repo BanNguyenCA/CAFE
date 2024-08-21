@@ -1,0 +1,5 @@
+torch==2.1.2
+numpy==1.24.0rc1
+tqdm
+scipy
+scikit-learn
